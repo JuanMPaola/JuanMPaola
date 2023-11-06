@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Juan, I am a programmer from Argentina.
+I consider myself as a curious, proactive person, now interested in learning more and more about IT and software development. I am searching for opportunities to improve everything I´ve been learning during past years and reach my potential.
+### ¡Hola! 👋
+Mi nombre es Juan, soy un programador de Argentina.
+Me considero una persona curiosa y proactiva, actualmente interesada en aprender más y más sobre TI y desarrollo de software. Estoy buscando oportunidades para mejorar todo lo que he estado aprendiendo en los últimos años y alcanzar mi máximo potencial.
 
+Skills / Habilidades
+
+<img width="60" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/123994247/277113844-d7561220-532d-414d-8f10-c675043b3e14.svg">
 <!--
 **JuanMPaola/JuanMPaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
