@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 My name is Juan, I am a programmer from Argentina.
-I consider myself as a curious, proactive person, now interested in learning more and more about IT and software development. I am searching for opportunities to improve everything I´ve been learning during past years and reach my potential.
+I consider myself as a curious, proactive person, now interested in learning more and more about IT and software development. I am searching for opportunities to apply everything I´ve been learning during past years and reach my potential.
 ### ¡Hola! 👋
 Mi nombre es Juan, soy un programador de Argentina.
 Me considero una persona curiosa y proactiva, actualmente interesada en aprender más y más sobre TI y desarrollo de software. Estoy buscando oportunidades para aplicar todo lo que he estado aprendiendo en los últimos años y alcanzar mi máximo potencial.
