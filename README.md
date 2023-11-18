@@ -11,6 +11,11 @@ I consider myself as a curious, proactive person, now interested in learning mor
 Mi nombre es Juan, soy un programador de Argentina.
 Me considero una persona curiosa y proactiva, actualmente interesada en aprender más y más sobre TI y desarrollo de software. Estoy buscando oportunidades para aplicar todo lo que he estado aprendiendo en los últimos años y alcanzar mi máximo potencial.
 
+### Links
+
+<a href="https://www.linkedin.com/in/juan-manuel-paola-238154216/" target="_blank">LinkedIn</a>
+
+
 ### Skills/Habilidades:
 
 <div style="display: flex; justify-content: space-between;">
