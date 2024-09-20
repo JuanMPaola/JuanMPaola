@@ -42,9 +42,6 @@ Full stack web development, and another one more focused on the server side of w
   <a href="https://skillicons.dev" title="React">
     <img src="https://skillicons.dev/icons?i=react" width="48" alt="NestJS">
   </a>
-  <a href="https://skillicons.dev" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker">
-  </a>
   <a href="https://skillicons.dev" title="Sequelize">
     <img src="https://skillicons.dev/icons?i=sequelize" width="48" alt="Jest">
   </a>
