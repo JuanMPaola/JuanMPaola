@@ -9,22 +9,22 @@ Full stack web development, and another one more focused on the server side of w
 
 ### Main Stack:
 <p>
-  <a href="https://skillicons.dev" title="TypeScript">
+  <a title="TypeScript">
     <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript">
   </a>
-  <a href="https://skillicons.dev" title="Javascript">
+  <a  title="Javascript">
     <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="TypeScript">
   </a>
-  <a href="https://skillicons.dev" title="NestJS">
+  <a title="NestJS">
     <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS">
   </a>
-  <a href="https://skillicons.dev" title="PostgreSQL">
+  <a title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL">
   </a>
-  <a href="https://skillicons.dev" title="Docker">
+  <a title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker">
   </a>
-  <a href="https://skillicons.dev" title="Jest">
+  <a title="Jest">
     <img src="https://skillicons.dev/icons?i=jest" width="48" alt="Jest">
   </a>
 </p>
@@ -33,28 +33,28 @@ Full stack web development, and another one more focused on the server side of w
 ### Also know about:
 <p>
 
-  <a href="https://skillicons.dev" title="Express">
+  <a title="Express">
     <img src="https://skillicons.dev/icons?i=express" width="48" alt="NestJS">
   </a>
-  <a href="https://skillicons.dev" title="C#">
+  <a  title="C#">
     <img src="https://skillicons.dev/icons?i=cs" width="48" alt="PostgreSQL">
   </a>
-  <a href="https://skillicons.dev" title="React">
+  <a  title="React">
     <img src="https://skillicons.dev/icons?i=react" width="48" alt="NestJS">
   </a>
-  <a href="https://skillicons.dev" title="Sequelize">
+  <a title="Sequelize">
     <img src="https://skillicons.dev/icons?i=sequelize" width="48" alt="Jest">
   </a>
-  <a href="https://skillicons.dev" title="Firebase">
+  <a title="Firebase">
     <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Jest">
   </a>
-  <a href="https://skillicons.dev" title="NextJS">
+  <a title="NextJS">
     <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Jest">
   </a>
-  <a href="https://skillicons.dev" title="Redux">
+  <a title="Redux">
     <img src="https://skillicons.dev/icons?i=redux" width="48" alt="Jest">
   </a>
-  <a href="https://skillicons.dev" title="Angular">
+  <a title="Angular">
     <img src="https://skillicons.dev/icons?i=angular" width="48" alt="Jest">
   </a>
 </p>
