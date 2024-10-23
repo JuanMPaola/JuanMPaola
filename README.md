@@ -59,7 +59,7 @@ Full stack web development, and another one more focused on the server side of w
   </a>
 </p>
 
-If you want to know more about my here are some my links check my <a href="https://www.linkedin.com/in/juan-manuel-paola-238154216/" target="_blank">LinkedIn</a> <br>
+If you want to know more about, check my <a href="https://www.linkedin.com/in/juan-manuel-paola-238154216/" target="_blank">LinkedIn</a> <br>
 And also you can see more about my projects in my <a href="https://juanmpaola-portfolio.vercel.app/home" target="_blank">Portfolio</a>
 
 ### Relevant Projects 👇
