@@ -2,12 +2,12 @@
 
 # Hi there!👋 my name is Juan Manuel Paola.
 <hr>
-I'm a developer from Argentina. <br>
-I consider myself a curious and proactive developer, deeply motivated by learning and building real solutions. I’ve been creating projects that apply and expand the knowledge gained through my studies as a Computer Systems Analyst and through intensive training in full-stack and backend-focused web development.
+I'm a developer from Argentina.<br><br>
+I'm a curious and proactive software developer who enjoys learning and building real solutions. I’ve worked on several projects applying what I learned as a Computer Systems Analyst and through full-stack and backend-focused training programs.<br><br>
 
-Most of my work revolves around Node.js and the TypeScript ecosystem, where I’ve designed and developed REST APIs, microservices, and multi-tenant architectures, while also building polished and user-friendly frontend views.. I also have hands-on experience with C# for backend services and enjoy exploring new technologies whenever a project requires it.
+Most of my work is centered around Node.js and the TypeScript ecosystem, where I’ve built REST APIs, microservices, and multi-tenant architectures, along with simple but polished frontend views. I also have experience with C# backend development and I enjoy exploring new technologies whenever a project requires it.<br><br>
 
-I’m passionate about crafting clean, scalable systems, understanding how things work under the hood, and continuously improving as a software engineer. My goal is to keep growing, experimenting, and contributing to projects that have real impact.
+I'm passionate about clean, scalable systems and understanding how things work under the hood. My goal is to keep improving as an engineer and contribute to projects that generate real impact.
 <br>
 
 ### Main Stack:
